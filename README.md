@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/castle_banner_v6.png" width="100%">
+<img src="./assets/castle_banner_v9.gif" width="100%">
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="./assets/enter_castle_v6.png" width="620">
+<img src="./assets/enter_castle_v9.gif" width="620">
 
 <br>
 
