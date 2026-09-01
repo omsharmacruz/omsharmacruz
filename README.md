@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://omsharmacruz.github.io">
-  <img src="./assets/castle_banner_v6.png" width="100%" alt="Om Sharma Digital Castle Banner" />
-</a>
+<img src="./assets/castle_banner_v6.png" width="100%">
 
 <br>
 
@@ -13,9 +11,7 @@
 
 <br>
 
-<a href="https://omsharmacruz.github.io">
-  <img src="./assets/enter_castle_v6.png" width="620" alt="Enter the Castle" />
-</a>
+<img src="./assets/enter_castle_v6.png" width="620">
 
 <br>
 
@@ -26,34 +22,52 @@
 ---
 
 <div align="center">
-  <img src="./assets/status_card_v6.png" width="100%" alt="Status Screen" />
+<img src="./assets/status_card_v6.png" width="100%">
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/quest_card_v6.png" width="100%" alt="Quest Log" />
+<img src="./assets/quest_card_v7.png" width="100%">
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/map_card_v6.png" width="100%" alt="Castle Map" />
+<img src="./assets/map_card_v7.png" width="100%">
 </div>
 
 ---
 
-## ⚔ FEATURED CHAMBERS
-
-| Chamber | Description | Status |
-|---|---|---|
-| **MyMovieList** | Movie discovery and watchlist platform | `ACTIVE` |
-| **HAM10000 CNN** | Skin-lesion classification project | `CLEARED` |
-| **Digital Castle** | Interactive 8-bit portfolio | `CURRENT QUEST` |
+<div align="center">
+<img src="./assets/featured_chambers_v7.png" width="100%">
+</div>
 
 ---
 
-## 🎨 CREATIVE LOADOUT
+<div align="center">
+<img src="./assets/creative_loadout_v7.png" width="100%">
+</div>
+
+---
+
+<div align="center">
+<img src="./assets/boss_links_v7.png" width="100%">
+</div>
+
+---
+
+## ⚔ DEVELOPER LOADOUT
+
+| Skill | Level |
+|---|---|
+| Python | LV.4 |
+| Ruby | LV.2 |
+| Angular | LV.2 |
+| React | LV.3 |
+| Next.js | LV.4 |
+
+## 🎨 CREATIVE RELICS
 
 | Tool | Level |
 |---|---|
@@ -61,11 +75,3 @@
 | Premiere Pro | LV.3 |
 | Photoshop | LV.2 |
 
----
-
-## 🔗 BOSS ROOM LINKS
-
-- **Portfolio:** https://omsharmacruz.github.io
-- **GitHub:** https://github.com/omsharmacruz
-- **Projects:** add your own project links here
-- **Contact:** add your own links here
