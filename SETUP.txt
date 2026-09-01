@@ -1,0 +1,7 @@
+Upload README.md and assets/ into your github.com/omsharmacruz/omsharmacruz repo.
+
+This version is optimized for GitHub profile loading:
+- 1 static PNG banner
+- 1 static PNG button
+- no heavy GIFs
+- no large cards
