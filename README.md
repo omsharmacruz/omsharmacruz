@@ -1,96 +1,55 @@
 <div align="center">
 
 <a href="https://omsharmacruz.github.io">
-<img src="./assets/castle_banner.png" width="100%" alt="Digital Castle">
+  <img src="./assets/castle_banner_v5.png" width="100%" alt="Om Sharma Digital Castle Banner" />
 </a>
 
 <br>
 
 # ☾ OM SHARMA ☽
-
 ### SOFTWARE DEVELOPER · DIGITAL CASTLE KEEPER
 
-Python · Ruby · Angular · React · Next.js
+`Python` · `Ruby` · `Angular` · `React` · `Next.js`
 
 <br>
 
 <a href="https://omsharmacruz.github.io">
-<img src="./assets/enter_castle.png" width="500" alt="Enter Castle">
+  <img src="./assets/enter_castle_v5.png" width="720" alt="Enter the Castle" />
 </a>
+
+**[ENTER THE FULL PORTFOLIO →](https://omsharmacruz.github.io)**
 
 </div>
 
 ---
 
-## 🛡️ STATUS SCREEN
-
-```text
-NAME     : OM SHARMA
-CLASS    : SOFTWARE DEVELOPER
-LEVEL    : 21
-
-HP  ████████████████
-MP  ███████████░░░░░
-
-PYTHON      LV.4
-RUBY        LV.2
-ANGULAR     LV.2
-REACT       LV.3
-NEXT.JS     LV.4
-```
+<div align="center">
+  <img src="./assets/status_card_v5.png" width="100%" alt="Status Screen" />
+</div>
 
 ---
 
-## 📜 QUEST LOG
-
-```text
-[ACTIVE]
-> Build full-stack applications
-> Learn Ruby on Rails + Angular
-> Create memorable digital experiences
-
-[CLEARED]
-> MyMovieList
-> HAM10000 CNN Classification
-
-[CURRENT QUEST]
-> Digital Castle Portfolio
-```
+<div align="center">
+  <img src="./assets/quest_card_v5.png" width="100%" alt="Quest Log" />
+</div>
 
 ---
 
-## 🗺️ CASTLE MAP
-
-```text
-                 ☾ MOON TOWER ☾
-
-                      |
-                      |
-              +---------------+
-              |  ENTRANCE     |
-              +---------------+
-                 /     |     \
-
-          SKILLS   PROJECTS   PROFILE
-
-                 \     |     /
-
-              +---------------+
-              |   CONTACT     |
-              +---------------+
-```
+<div align="center">
+  <img src="./assets/map_card_v5.png" width="100%" alt="Castle Map" />
+</div>
 
 ---
 
-## ⚔️ DEVELOPER LOADOUT
+## ⚔ FEATURED CHAMBERS
 
-| Skill | Level |
-|---|---|
-| Python | LV.4 |
-| Ruby | LV.2 |
-| Angular | LV.2 |
-| React | LV.3 |
-| Next.js | LV.4 |
+| Chamber | Description | Status |
+|---|---|---|
+| **MyMovieList** | Movie discovery and watchlist platform | `ACTIVE` |
+| **HAM10000 CNN** | Skin-lesion classification project | `CLEARED` |
+| **Digital Castle** | Interactive 8-bit portfolio | `CURRENT QUEST` |
+
+---
 
 ## 🎨 CREATIVE LOADOUT
 
@@ -102,17 +61,9 @@ NEXT.JS     LV.4
 
 ---
 
-## 🏰 FEATURED CHAMBERS
+## 🔗 BOSS ROOM LINKS
 
-| Project | Description |
-|-|-|
-| MyMovieList | Movie discovery and watchlist platform |
-| HAM10000 CNN | Skin lesion classification project |
-| Digital Castle | Interactive 8-bit portfolio |
-
----
-
-### ENTER THE CASTLE
-
-https://omsharmacruz.github.io
-
+- **Portfolio:** https://omsharmacruz.github.io
+- **GitHub:** https://github.com/omsharmacruz
+- **Projects:** add your own project links here
+- **Contact:** add your own links here

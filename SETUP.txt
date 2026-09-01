@@ -1,7 +1,16 @@
-Upload README.md and assets/ into your github.com/omsharmacruz/omsharmacruz repo.
+Upload these into your GitHub profile repo:
 
-This version is optimized for GitHub profile loading:
-- 1 static PNG banner
-- 1 static PNG button
-- no heavy GIFs
-- no large cards
+omsharmacruz/
+├── README.md
+└── assets/
+    ├── castle_banner_v5.png
+    ├── enter_castle_v5.png
+    ├── status_card_v5.png
+    ├── quest_card_v5.png
+    └── map_card_v5.png
+
+This version is designed to stay light:
+- all static PNGs
+- no GIFs
+- only 5 image assets total
+- fancy pixel-art cards for status / quest / map
