@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://omsharmacruz.github.io">
-  <img src="./assets/castle_banner_v5.png" width="100%" alt="Om Sharma Digital Castle Banner" />
+  <img src="./assets/castle_banner_v6.png" width="100%" alt="Om Sharma Digital Castle Banner" />
 </a>
 
 <br>
@@ -14,8 +14,10 @@
 <br>
 
 <a href="https://omsharmacruz.github.io">
-  <img src="./assets/enter_castle_v5.png" width="720" alt="Enter the Castle" />
+  <img src="./assets/enter_castle_v6.png" width="620" alt="Enter the Castle" />
 </a>
+
+<br>
 
 **[ENTER THE FULL PORTFOLIO →](https://omsharmacruz.github.io)**
 
@@ -24,19 +26,19 @@
 ---
 
 <div align="center">
-  <img src="./assets/status_card_v5.png" width="100%" alt="Status Screen" />
+  <img src="./assets/status_card_v6.png" width="100%" alt="Status Screen" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/quest_card_v5.png" width="100%" alt="Quest Log" />
+  <img src="./assets/quest_card_v6.png" width="100%" alt="Quest Log" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/map_card_v5.png" width="100%" alt="Castle Map" />
+  <img src="./assets/map_card_v6.png" width="100%" alt="Castle Map" />
 </div>
 
 ---

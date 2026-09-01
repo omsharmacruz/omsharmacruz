@@ -1,16 +1,16 @@
-Upload these into your GitHub profile repo:
+Upload these into your profile repo:
 
 omsharmacruz/
 ├── README.md
 └── assets/
-    ├── castle_banner_v5.png
-    ├── enter_castle_v5.png
-    ├── status_card_v5.png
-    ├── quest_card_v5.png
-    └── map_card_v5.png
+    ├── castle_banner_v6.png
+    ├── enter_castle_v6.png
+    ├── status_card_v6.png
+    ├── quest_card_v6.png
+    └── map_card_v6.png
 
-This version is designed to stay light:
-- all static PNGs
-- no GIFs
-- only 5 image assets total
-- fancy pixel-art cards for status / quest / map
+This corrected version keeps the profile lightweight while fixing:
+- text scaling
+- card composition
+- castle design balance
+- button proportions
